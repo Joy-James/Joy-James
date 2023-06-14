@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Joy Njuguna</h1>
-<h3 align="center">A passionate frontend developer </h3>
+<h3 align="center">Hi 👋, I'm Joy Njuguna</h3>
+<h5 align="center">A passionate frontend developer </h5>
 
 - 🔭 I’m currently working on **personal portfolio project**
 
