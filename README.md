@@ -1,5 +1,5 @@
-<h3 align="center">Hi 👋, I'm Joy Njuguna</h3>
-<h5 align="center">A passionate frontend developer </h5>
+<h2 align="center">Hi 👋, I'm Joy Njuguna</h2>
+<h4 align="center">A passionate frontend developer </h4>
 
 - 🔭 I’m currently working on **personal portfolio project**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mumbijoynjuguna@gmail.com**
 
-- ⚡ Fun fact **The average computer user blinks just 7 times a minute**
+- ⚡ Fun fact: **The average computer user blinks just 7 times a minute**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
